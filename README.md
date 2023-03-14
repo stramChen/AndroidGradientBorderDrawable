@@ -1,1 +1,1 @@
-# AndroidGradientBorderDrawable
+# AndroidGradientBorderDrawable 安卓渐变背景框
